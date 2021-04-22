@@ -73,8 +73,6 @@ This app contains API secrets and passwords that have been hidden deliberately, 
 - [passport-local](https://github.com/jaredhanson/passport-local#passport-local)
 - [express-session](https://github.com/expressjs/session#express-session)
 - [method-override](https://github.com/expressjs/method-override#method-override)
-- [nodemailer](https://nodemailer.com/about/)
-- [moment](https://momentjs.com/)
 - [cloudinary](https://cloudinary.com/)
 - [geocoder](https://github.com/wyattdanger/geocoder#geocoder)
 - [connect-flash](https://github.com/jaredhanson/connect-flash#connect-flash)
