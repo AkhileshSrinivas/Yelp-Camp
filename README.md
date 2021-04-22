@@ -83,4 +83,3 @@ This app contains API secrets and passwords that have been hidden deliberately, 
 
 - [Cloudinary](https://cloudinary.com/)
 - [Heroku](https://dashboard.heroku.com)
-- [Cloud9](https://aws.amazon.com/cloud9/?origin=c9io)
