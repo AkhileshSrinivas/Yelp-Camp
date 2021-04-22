@@ -23,9 +23,10 @@ The app is deployed on Heroku and available to use -
   - Admin sign-up with admin code
 
 - Authorization:
-  -One cannot manage posts and view user profile without being authenticated
-  -One cannot edit or delete posts and comments created by other users
-  -Admin can manage all posts and comments
+
+  - One cannot manage posts and view user profile without being authenticated
+  - One cannot edit or delete posts and comments created by other users
+  - Admin can manage all posts and comments
 
 - Manage campground posts with basic functionalities:
 
