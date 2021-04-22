@@ -13,7 +13,7 @@ This project was created using Node.js, Express, MongoDB, and Bootstrap. Passpor
 # Live Demo
 
 The app is deployed on Heroku and available to use -
-[YelpCamp](https://arcane-coast-57572.herokuapp.com/)
+[YelpCamp](https://akhilesh-yelpcamp.herokuapp.com/)
 
 # Features
 
